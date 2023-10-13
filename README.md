@@ -1,5 +1,6 @@
 # GerardoAngular
 
+# Prueba Tecnica
 
 Se requiere de una aplicación web (Angular, JSF) por medio de la cual se puedan vender recargas en línea. Se debe poder identificar en cualquier momento la cantidad y valor de recargas discriminada por operador (Tigo, Movistar, Comcel, Uff) y persona que realiza la venta.  
 a.	Implementar APIs necesarias en Spring boot (Opcional) 
