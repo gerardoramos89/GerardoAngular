@@ -1,5 +1,14 @@
 # GerardoAngular
 
+
+Se requiere de una aplicación web (Angular, JSF) por medio de la cual se puedan vender recargas en línea. Se debe poder identificar en cualquier momento la cantidad y valor de recargas discriminada por operador (Tigo, Movistar, Comcel, Uff) y persona que realiza la venta.  
+a.	Implementar APIs necesarias en Spring boot (Opcional) 
+b.	Crear pantalla para la venta de recargas (no se requiere diseño) 
+c.	Realice un diagrama relacional, diagrama de casos de uso, diagrama de secuencia y de clases que sirva como solución para dicha implementación. 
+d.	Subir la solución a un repositorio GIT 
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
 
 ## Development server
